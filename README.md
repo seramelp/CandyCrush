@@ -5,9 +5,11 @@ We have two players (blue / red) playing alternately and the goal is, within a l
 
 # Players
 <b>Class RandomPlayer</b> 
+
 Selects the next move of the player from the list of available movements in a random way.
 
 <b>Class HeuristicPlayer</b>
+
 Evaluation of available movements that the player has in each round of the game and selection of the best move.
 
 # Candies
